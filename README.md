@@ -1,4 +1,4 @@
-# 🔐 TraceVault – Digital Forensics Toolkit
+#  TraceVault – Digital Forensics Toolkit
 
 TraceVault is a Java-based digital forensics toolkit developed to perform basic analysis of digital evidence files and store forensic reports in a PostgreSQL database.
 
