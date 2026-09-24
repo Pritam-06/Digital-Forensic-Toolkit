@@ -28,6 +28,7 @@ TraceVault provides a simple automated workflow for performing basic forensic an
 
 ---
 
+
 # ✨ Features
 
 ## 1. Evidence Analysis
@@ -90,6 +91,7 @@ The database stores information including:
 | `created_at` | Report creation timestamp |
 
 ---
+
 
 # 🛠️ Technologies Used
 
