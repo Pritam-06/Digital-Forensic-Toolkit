@@ -110,7 +110,7 @@ The database stores information including:
 
 ```text
 Digital-Forensic-Toolkit/
-│
+│      
 ├── database/
 │   ├── DatabaseStats.java
 │   ├── DBConnection.java
