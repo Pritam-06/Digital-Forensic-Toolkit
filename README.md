@@ -46,7 +46,7 @@ The toolkit extracts information such as:
 - Evidence category
 - Risk level
 
-## 2. SHA-256 Hash Generation
+## 2. SHA-256 Hash Generation   
 
 TraceVault generates a SHA-256 cryptographic hash for the selected evidence file.
 
